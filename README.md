@@ -1,1 +1,2 @@
-# alura-book
+# AluraBooks
+Projeto feito durante o curso de responsividade no Alura
