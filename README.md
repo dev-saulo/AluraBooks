@@ -9,7 +9,7 @@ Projeto feito durante o curso de responsividade no Alura
 
 ## 🖥️ Projeto
 
-Esse é um projeto Web responsivo de um e-commerce de livros, o AluraBook, esse projeto foi idealizado na aula de "HTML e CSS: responsividade com mobile-frist.
+Esse é um projeto Web responsivo de um e-commerce de livros, o AluraBook, esse projeto foi idealizado na aula de "HTML e CSS: responsividade com mobile-frist".
 Você poderá acessar o site através de qualquer dispositivo (Smartphone, Tablet ou Computador).
 
 ## 🚀 Tecnologias
